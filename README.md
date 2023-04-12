@@ -2,7 +2,7 @@
 - 👀 I am interested in coding<br>
 - 🌱 I’m currently learning python language, Java language, HTML&CSS, Javascript and SQL<br>
 <!-- - 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me 
+- 📫 How to reach me <br>
       - Facebook:Siripoom Limesoontorn<br>
       - IG:pppoommer<br>
       - Linkedin:www.linkedin.com/in/siripoom-lim<br>
